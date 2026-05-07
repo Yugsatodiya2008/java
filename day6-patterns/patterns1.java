@@ -14,7 +14,7 @@ public class patterns1{
                     System.out.print(" ");
             }
 
-        }  
+        }    
 
 
         System.out.println("");
