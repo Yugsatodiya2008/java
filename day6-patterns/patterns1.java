@@ -21,6 +21,6 @@ public class patterns1{
     }   
 }
         public static void main(String[] args) {
-          patterns(4, 5);    
+          patterns(44,76);    
         }
     }
