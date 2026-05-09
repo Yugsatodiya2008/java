@@ -6,7 +6,7 @@ public class whileloop1 {
             counter++;
             
         }
-        System.out.println("done sir !");
+        System.out.println("done sir!");
     }
 }
 
